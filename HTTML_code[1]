@@ -1,0 +1,44 @@
+<!--
+    Sylvester
+    by Sylvester
+    feb 2022
+    MIt license
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+        <header>
+        <h1>I. CHAPTER ONE</h1>
+        <ul>
+        <p> A. Introduction</p>
+        <p> B. Preliminary Investigation</p>
+        <p> C. Existing Systems</p>
+        </ul>
+    </header>
+     <h2> II. CHAPTER TWO</h2>
+     <ul>
+     <li>
+     <p> System Design</p></li>
+     <li>
+     <p> System Coding</p></li></ul>
+    </section>
+    <section>
+    <h3> III. CHAPTER THREE</h3>
+    <ul>
+     <li>
+     <p>Implementation</p></li>
+    <li>
+     <p>User training</p> </li>
+     </ul>
+     </section>
+
+    <h4>DISCLAIMER:</h4>
+<p></p>
+               Copying of this content without permission is not allowed</p>
+       
+
+
+    </footer>
+</body>
+
+</html>
